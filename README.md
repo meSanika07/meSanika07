@@ -4,9 +4,8 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Sanika%20Kundekar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:6a11cb,100:2575fc&height=200&section=header&text=Sanika%20Kundekar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Java%20Backend%20Engineer&descAlignY=55&descSize=18"/>
 </div>
----
 
 <p align="center">
   <a href="https://sanika-portfolio-iota.vercel.app/">
