@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20I'm%20Sanika%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Sanika%20Kundekar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </div>
 ---
 
