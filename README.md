@@ -1,6 +1,6 @@
 <!-- Header with animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanika+Kundekar;Software+Developer+%7C+Java+Backend+Engineer;Full+Stack+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanika+Kundekar;Software+Developer+%7C+Java+Backend+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <!-- Professional Banner -->
@@ -10,9 +10,8 @@
 
 ---
 
-<!-- Intro Section -->
 <h1 align="center">Hi 👋, I'm Sanika Kundekar</h1>
-<h3 align="center">🚀 Software Developer | Java Backend Engineer | Full Stack Developer</h3>
+<h3 align="center">🚀 Software Developer | Java Developer Engineer </h3>
 
 <p align="center">
   <a href="https://sanika-portfolio-iota.vercel.app/">
@@ -30,29 +29,11 @@
 
 ## 🚀 About Me
 
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Spring%20Boot%20%7C%20React-blue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Interest-Full%20Stack%20Development-purple?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Mindset-Problem%20Solver-orange?style=for-the-badge"/>
-  </p>
-</div>
-
 - 💻 Passionate about building scalable backend systems using **Java & Spring Boot**
-- 🌐 Skilled in developing full-stack applications with **React & Node.js**
-- ☁️ Exploring **Cloud (AWS)** and **DevOps (Docker, CI/CD)**
-- 📚 Regular problem solver on **LeetCode & CodeChef**
-- 🚀 Always learning new technologies and building impactful projects
-
----
-
-## 📬 Feel Free to Contact Me — I'm Always Here...
-
-<p align="center">
-  <a href="https://github.com/meSanika07">
-    <img src="https://img.shields.io/github/followers/meSanika07?label=Follow&style=social" />
-  </a>
-</p>
+- 🌐 Skilled in full-stack development with **React & Node.js**
+- 🤖 Interested in **Machine Learning & AI-based systems**
+- ☁️ Exploring **AWS, Docker & CI/CD pipelines**
+- 📚 Active problem solver on **LeetCode & CodeChef**
 
 ---
 
@@ -78,37 +59,11 @@
 
 ---
 
-## 🎯 What I Do
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png"/>
-        <h3>☕ Backend Development</h3>
-        <p>Building secure and scalable APIs using Java, Spring Boot & Microservices architecture</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/react-native.png"/>
-        <h3>🌐 Full Stack Apps</h3>
-        <p>Developing responsive web apps using React, Node.js and modern UI frameworks</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/cloud.png"/>
-        <h3>☁️ Cloud & DevOps</h3>
-        <p>Deploying applications using AWS, Docker and CI/CD pipelines</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
 <p>
-  <img height="28" src="https://skillicons.dev/icons?i=java,js,ts" />
+  <img height="28" src="https://skillicons.dev/icons?i=java,js,ts,python" />
 </p>
 
 ### 🌐 Frontend
@@ -119,6 +74,18 @@
 ### 🧩 Backend & Frameworks
 <p>
   <img height="28" src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### 🤖 Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Random%20Forest-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gradient%20Boosting-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linear%20Regression-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDA-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Feature%20Engineering-pink?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-black?style=for-the-badge"/>
 </p>
 
 ### 🗄️ Databases
@@ -152,11 +119,13 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Research
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meSanika07&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
-</div>
+- 📄 **Stable Diffusion with LLM Prompt Engineering and CLIP Filtering for Fine-Grained Image Generation**  
+  **IEEE — ICMNWC 2025 (Dec 2025)**  
+  Published a research paper proposing a diffusion-based framework combining LLM-driven prompt diversification and CLIP-based filtering to improve fine-grained image generation quality, diversity, and class alignment.  
+  👩‍💻 Authors: Ayush Fating, Sanika Kundekar, Kiran Shinde, Sanket Mane, Sharmila Kharat  
+  🔗 https://ieeexplore.ieee.org/document/11354257  
 
 ---
 
