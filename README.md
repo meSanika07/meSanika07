@@ -1,85 +1,106 @@
 <h1 align="center">Hi 👋, I'm Sanika Kundekar</h1>
-<h3 align="center">🚀 Software Developer | Java Backend Engineer | Full Stack Developer</h3>
+<h3 align="center">Computer Science Undergraduate | Software Developer</h3>
 
 <p align="center">
-  <a href="https://sanika-portfolio-iota.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
-  </a>
-  <a href="https://github.com/meSanika07">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/sanika-kundekar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+Transforming ideas into impactful digital solutions with creativity and code.
+</p>
+
+<p align="center">
+  <a href="https://sanika-portfolio-iota.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/sanika-kundekar">LinkedIn</a> •
+  <a href="mailto:sanikakundekar007@gmail.com">Email</a>
 </p>
 
 ---
 
-## 📬 Feel Free to Contact Me — I'm Always Here...
+## 💼 Experience
 
-<p align="center">
-  <a href="https://github.com/meSanika07">
-    <img src="https://img.shields.io/github/followers/meSanika07?label=Follow&style=social" />
-  </a>
-</p>
+### Frontend Developer Intern — SORTUS E-WASTE MANAGEMENT  
+📍 Remote | 🗓️ June 2025 – July 2025  
+- Built responsive platform using **React, TypeScript, Tailwind CSS**  
+- Converted Figma designs into reusable components  
+- Developed role-based dashboards  
+- Followed scalable frontend architecture & Git workflows  
 
 ---
 
-## 🌐 Connect with Me
+### Cloud Virtual Intern — AWS Academy (AICTE)  
+📍 Remote | 🗓️ Oct 2024 – Dec 2024  
+- Worked with **AWS EC2, S3, RDS, VPC**  
+- Implemented infrastructure using **CloudFormation**  
+- Learned cloud architecture & deployment strategies  
 
-<p align="center">
-  <a href="https://linkedin.com/in/sanika-kundekar">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:sanikakundekar007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://leetcode.com/u/mesanika_17/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <a href="https://www.codechef.com/users/sanika_k07">
-    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
-  </a>
-  <a href="https://sanika-portfolio-iota.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-  </a>
-</p>
+---
+
+## 🧠 Skills & Expertise
+
+### 🌐 Web Development
+`HTML` `CSS` `JavaScript` `React` `Node.js` `Spring Boot`  
+`MongoDB` `MySQL` `REST APIs` `WebSocket`
+
+### 🤖 AI / Machine Learning
+`Machine Learning` `Random Forest` `Gradient Boosting`  
+`Linear Regression` `EDA` `Feature Engineering` `Streamlit`
+
+### ⚙️ Core & Tools
+`Java` `DSA` `OOP` `DBMS`  
+`Git` `GitHub` `Postman` `IntelliJ` `VS Code`
+
+---
+
+## 🎓 Education
+
+**BTech — Computer Engineering**  
+MIT Academy of Engineering, Alandi  
+📊 CGPA: 9.05 / 10  
+🗓️ Nov 2022 – June 2026  
+
+**HSC — Science**  
+83.17%  
+
+**SSC**  
+95.40%  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
+<img height="30" src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb,mysql,postgres" />
 </p>
 
-### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" />
-  <img src="https://img.shields.io/badge/ShadCN_UI-black?style=for-the-badge"/>
+<img height="30" src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,figma" />
 </p>
 
-### 🧩 Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <img src="https://img.shields.io/badge/ASP.NET-purple?style=for-the-badge"/>
+---
+
+## 📜 Certifications
+
+- ✔️ Postman API Fundamentals Student Expert  
+- ✔️ AWS Cloud Virtual Internship  
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+<a href="https://linkedin.com/in/sanika-kundekar">
+<img height="30" src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:sanikakundekar007@gmail.com">
+<img height="30" src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://leetcode.com/u/mesanika_17/">
+<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.codechef.com/users/sanika_k07">
+<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
-  <img src="https://img.shields.io/badge/SQL_Server-red?style=for-the-badge"/>
-</p>
+---
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker" />
-  <img src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform"/>
-  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws"/>
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<p align="center">
+© 2025 Sanika Kundekar
 </p>
