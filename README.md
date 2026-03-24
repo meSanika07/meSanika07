@@ -24,9 +24,8 @@
 ## 🚀 About Me
 
 - 💻 Passionate about building scalable systems
-- 🌐 Skilled in web development =
+- 🌐 Skilled in web development 
 - 🤖 Interested in **Machine Learning & AI-based systems**
-- ☁️ Exploring **AWS, Docker & CI/CD pipelines**
 - 📚 Problem solver on **LeetCode & CodeChef**
 
 ---
