@@ -23,11 +23,11 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate about building scalable backend systems using **Java & Spring Boot**
-- 🌐 Skilled in full-stack development with **React & Node.js**
+- 💻 Passionate about building scalable systems
+- 🌐 Skilled in web development =
 - 🤖 Interested in **Machine Learning & AI-based systems**
 - ☁️ Exploring **AWS, Docker & CI/CD pipelines**
-- 📚 Active problem solver on **LeetCode & CodeChef**
+- 📚 Problem solver on **LeetCode & CodeChef**
 
 ---
 
