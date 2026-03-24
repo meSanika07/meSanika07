@@ -39,44 +39,59 @@
 
 <div align="center">
 
-<!-- Languages -->
-<div>
-<h3>👨‍💻 Languages</h3>
-<img src="https://skillicons.dev/icons?i=java,js,ts" />
-</div>
+<table>
+<tr>
+<td align="center" width="250px">
 
-<br>
+### 👨‍💻 Languages  
+<img height="35" src="https://skillicons.dev/icons?i=java,js,ts" />
 
-<!-- Frontend -->
-<div>
-<h3>🌐 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
-</div>
+</td>
 
-<br>
+<td align="center" width="250px">
 
-<!-- Backend -->
-<div>
-<h3>🧩 Backend & Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-<br><br>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-</div>
+### 🌐 Frontend  
+<img height="35" src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 
-<br>
+</td>
+</tr>
 
-<!-- Databases -->
-<div>
-<h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</div>
+<tr>
+<td align="center">
 
-<br>
+### 🧩 Backend  
+<img height="35" src="https://skillicons.dev/icons?i=spring,nodejs,express" /><br><br>
+<img height="28" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
 
-<!-- Cloud -->
-<div>
-<h3>☁️ Cloud & DevOps</h3>
-<img src="https://skillicons.dev/icons?i=aws,docker" />
+</td>
+
+<td align="center">
+
+### 🗄️ Databases  
+<img height="35" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ☁️ Cloud  
+<img height="35" src="https://skillicons.dev/icons?i=aws,docker" /><br><br>
+<img height="28" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+
+</td>
+
+<td align="center">
+
+### 🔧 Tools  
+<img height="35" src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+
+</td>
+</tr>
+
+</table>
+
 </div>
 
 <br>
